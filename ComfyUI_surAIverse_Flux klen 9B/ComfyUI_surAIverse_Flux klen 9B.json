@@ -1,24 +1,24 @@
 {
   "id": "92112d97-bb64-4b44-86f2-ea5691ef8f6e",
   "revision": 0,
-  "last_node_id": 233,
-  "last_link_id": 387,
+  "last_node_id": 238,
+  "last_link_id": 422,
   "nodes": [
     {
       "id": 75,
       "type": "7b34ab90-36f9-45ba-a665-71d418f0df18",
       "pos": [
-        -4086.784712944103,
-        -8018.155292421631
+        -4166.917276768285,
+        -6126.615787216404
       ],
       "size": [
-        522.234375,
-        324.078125
+        546.90625,
+        621.421875
       ],
       "flags": {
         "collapsed": false
       },
-      "order": 78,
+      "order": 83,
       "mode": 0,
       "inputs": [
         {
@@ -28,7 +28,7 @@
           "widget": {
             "name": "text"
           },
-          "link": 387
+          "link": 422
         },
         {
           "name": "image",
@@ -101,12 +101,12 @@
       "id": 76,
       "type": "LoadImage",
       "pos": [
-        -4501.417510552092,
-        -8038.275808862602
+        -5144.8236279678085,
+        -7460.565800895991
       ],
       "size": [
-        384,
-        426
+        686.21875,
+        587.390625
       ],
       "flags": {},
       "order": 0,
@@ -148,7 +148,7 @@
         }
       },
       "widgets_values": [
-        "vibrant-orange-starfish-with-detailed-texture-and-symmetrical-shape-free-png.webp",
+        "cybersapha_an_ancient_primitive_black_stone_sculpture_of_a_cat__8b39843c-e4a7-4527-ae66-71a61096f75b.png",
         "image"
       ]
     },
@@ -156,15 +156,15 @@
       "id": 92,
       "type": "65c22b29-59aa-496b-89c6-55a603658670",
       "pos": [
-        -4400.936905778363,
-        -9073.773732703421
+        -4400.937638518526,
+        -9073.774360645039
       ],
       "size": [
         480,
         426
       ],
       "flags": {},
-      "order": 77,
+      "order": 82,
       "mode": 4,
       "inputs": [
         {
@@ -243,7 +243,7 @@
         }
       },
       "widgets_values": [
-        "",
+        "this monkey is walking in streets at night light",
         432262096973495,
         "flux-2-klein-9b-fp8.safetensors",
         "qwen_3_8b_fp8mixed.safetensors",
@@ -254,8 +254,8 @@
       "id": 97,
       "type": "MarkdownNote",
       "pos": [
-        -6062.348156555794,
-        -8272.944802872304
+        -6062.348952286843,
+        -8272.946397669517
       ],
       "size": [
         576,
@@ -283,15 +283,15 @@
       "id": 101,
       "type": "PreviewImage",
       "pos": [
-        -3525.614426783343,
-        -8084.685740998223
+        -4385.5299359086985,
+        -7426.854775664877
       ],
       "size": [
-        514.625,
-        607.5625
+        521.625,
+        521.34375
       ],
       "flags": {},
-      "order": 80,
+      "order": 85,
       "mode": 0,
       "inputs": [
         {
@@ -315,8 +315,8 @@
       "id": 103,
       "type": "LoadImage",
       "pos": [
-        -5094.335091358656,
-        -9077.780966422346
+        -5094.335124081648,
+        -9077.782476966488
       ],
       "size": [
         384,
@@ -324,7 +324,7 @@
       ],
       "flags": {},
       "order": 2,
-      "mode": 0,
+      "mode": 4,
       "inputs": [],
       "outputs": [
         {
@@ -361,7 +361,7 @@
         "secondTabWidth": 65
       },
       "widgets_values": [
-        "ach-black-models-2_orig.jpeg",
+        "djungelskog-soft-toy-orangutan__0710167_pe727369_s5.avif",
         "image"
       ]
     },
@@ -369,15 +369,15 @@
       "id": 104,
       "type": "PreviewImage",
       "pos": [
-        -3896.928218580547,
-        -9075.100920296429
+        -3896.9293388988935,
+        -9075.100705762135
       ],
       "size": [
         503.890625,
         528.046875
       ],
       "flags": {},
-      "order": 79,
+      "order": 84,
       "mode": 4,
       "inputs": [
         {
@@ -401,8 +401,8 @@
       "id": 141,
       "type": "TextToLowercase",
       "pos": [
-        -2735.52868965797,
-        -6737.665148216341
+        -2735.5302201338236,
+        -6737.665889513672
       ],
       "size": [
         295.140625,
@@ -441,8 +441,8 @@
       "id": 142,
       "type": "TextToLowercase",
       "pos": [
-        -2734.1129373222966,
-        -6242.9673109214955
+        -2734.1141033262456,
+        -6242.966977416358
       ],
       "size": [
         279.046875,
@@ -481,8 +481,8 @@
       "id": 144,
       "type": "TextToLowercase",
       "pos": [
-        -2751.6526070113086,
-        -5925.558118787654
+        -2751.6537215001063,
+        -5925.558935482791
       ],
       "size": [
         340.53125,
@@ -521,8 +521,8 @@
       "id": 145,
       "type": "TextToLowercase",
       "pos": [
-        -2738.3216879194624,
-        -5682.487262275136
+        -2738.3232576587707,
+        -5682.487543022027
       ],
       "size": [
         331.078125,
@@ -561,8 +561,8 @@
       "id": 146,
       "type": "TextToLowercase",
       "pos": [
-        -2722.953351897281,
-        -5490.606399175032
+        -2722.954597126527,
+        -5490.606244375201
       ],
       "size": [
         328.5625,
@@ -578,9 +578,7 @@
         {
           "name": "texts",
           "type": "STRING",
-          "links": [
-            387
-          ]
+          "links": []
         }
       ],
       "title": "Norman Rockwell",
@@ -603,8 +601,8 @@
       "id": 147,
       "type": "TextToLowercase",
       "pos": [
-        -2723.0851293887854,
-        -5315.269601144684
+        -2723.0860936872305,
+        -5315.270121161913
       ],
       "size": [
         327.375,
@@ -643,8 +641,8 @@
       "id": 148,
       "type": "TextToLowercase",
       "pos": [
-        -4063.3991296662493,
-        -6738.156318866493
+        -4063.40019157974,
+        -6738.157737226304
       ],
       "size": [
         225,
@@ -683,8 +681,8 @@
       "id": 149,
       "type": "TextToLowercase",
       "pos": [
-        -4062.7710473366124,
-        -6595.902088938683
+        -4062.7721058438788,
+        -6595.903114150047
       ],
       "size": [
         225,
@@ -723,8 +721,8 @@
       "id": 150,
       "type": "TextToLowercase",
       "pos": [
-        -4054.657318931138,
-        -6449.579870734176
+        -4054.65851517046,
+        -6449.58031622702
       ],
       "size": [
         225,
@@ -763,8 +761,8 @@
       "id": 151,
       "type": "TextToLowercase",
       "pos": [
-        -4055.986217920138,
-        -6310.06772503705
+        -4055.9873890675713,
+        -6310.068787270444
       ],
       "size": [
         225,
@@ -803,8 +801,8 @@
       "id": 152,
       "type": "TextToLowercase",
       "pos": [
-        -4072.989364965169,
-        -6145.684289214494
+        -4058.37064449091,
+        -6183.0361597794645
       ],
       "size": [
         244.578125,
@@ -843,8 +841,8 @@
       "id": 153,
       "type": "TextToLowercase",
       "pos": [
-        -2733.6162046351656,
-        -6556.05094968161
+        -2733.6178302485896,
+        -6556.051437721786
       ],
       "size": [
         274.3125,
@@ -883,8 +881,8 @@
       "id": 154,
       "type": "TextToLowercase",
       "pos": [
-        -3457.161914189038,
-        -6710.396620152931
+        -3457.162798938043,
+        -6710.396790237744
       ],
       "size": [
         225,
@@ -922,8 +920,8 @@
       "id": 155,
       "type": "TextToLowercase",
       "pos": [
-        -3467.6857160024456,
-        -6553.220728557259
+        -3467.6869491593616,
+        -6553.220468496636
       ],
       "size": [
         225,
@@ -961,8 +959,8 @@
       "id": 156,
       "type": "TextToLowercase",
       "pos": [
-        -3462.374398536427,
-        -6416.187539956805
+        -3462.375562838438,
+        -6416.189040538331
       ],
       "size": [
         225,
@@ -1000,8 +998,8 @@
       "id": 157,
       "type": "TextToLowercase",
       "pos": [
-        -3462.95327823125,
-        -6261.973219127991
+        -3462.9540212665333,
+        -6261.97392019307
       ],
       "size": [
         225,
@@ -1039,8 +1037,8 @@
       "id": 158,
       "type": "TextToLowercase",
       "pos": [
-        -3456.581323098222,
-        -6098.048437431709
+        -3456.5824439249373,
+        -6098.049548985851
       ],
       "size": [
         225,
@@ -1078,8 +1076,8 @@
       "id": 159,
       "type": "TextToLowercase",
       "pos": [
-        -3448.402133795994,
-        -5929.864418956453
+        -3448.40373716617,
+        -5929.865447845837
       ],
       "size": [
         225,
@@ -1117,8 +1115,8 @@
       "id": 160,
       "type": "TextToLowercase",
       "pos": [
-        -3442.7605169032186,
-        -5768.145198846873
+        -3442.761396760976,
+        -5768.146172810418
       ],
       "size": [
         225,
@@ -1156,8 +1154,8 @@
       "id": 161,
       "type": "TextToLowercase",
       "pos": [
-        -3435.9341861339008,
-        -5609.149237612049
+        -3435.935271211946,
+        -5609.150393849573
       ],
       "size": [
         225,
@@ -1195,8 +1193,8 @@
       "id": 163,
       "type": "TextToLowercase",
       "pos": [
-        -4072.903795165491,
-        -5977.912717173685
+        -4065.349779548781,
+        -6056.247944446751
       ],
       "size": [
         231.6875,
@@ -1235,8 +1233,8 @@
       "id": 164,
       "type": "TextToLowercase",
       "pos": [
-        -2721.1234417311653,
-        -5159.308372855442
+        -2721.1250247867365,
+        -5159.309510412311
       ],
       "size": [
         327.5625,
@@ -1275,8 +1273,8 @@
       "id": 166,
       "type": "TextToLowercase",
       "pos": [
-        -4592.120375011092,
-        -6702.373167886117
+        -4592.1219421741225,
+        -6702.373603449809
       ],
       "size": [
         225,
@@ -1312,8 +1310,8 @@
       "id": 167,
       "type": "TextToLowercase",
       "pos": [
-        -4579.932240593946,
-        -6543.410151024168
+        -4579.9332225088965,
+        -6543.410698629141
       ],
       "size": [
         225,
@@ -1349,8 +1347,8 @@
       "id": 168,
       "type": "TextToLowercase",
       "pos": [
-        -4584.15724945305,
-        -6366.385060846173
+        -4584.157865619004,
+        -6366.3859825618165
       ],
       "size": [
         225,
@@ -1386,8 +1384,8 @@
       "id": 169,
       "type": "TextToLowercase",
       "pos": [
-        -4585.780080703946,
-        -6197.959735535824
+        -4585.7816584851935,
+        -6197.960382930511
       ],
       "size": [
         225,
@@ -1423,8 +1421,8 @@
       "id": 170,
       "type": "TextToLowercase",
       "pos": [
-        -4576.283116486675,
-        -6031.085790693637
+        -4576.284509046871,
+        -6031.086822032509
       ],
       "size": [
         225,
@@ -1460,8 +1458,8 @@
       "id": 171,
       "type": "TextToLowercase",
       "pos": [
-        -4569.484595902252,
-        -5855.9868767063945
+        -4569.485251785485,
+        -5855.9865075554835
       ],
       "size": [
         225,
@@ -1497,8 +1495,8 @@
       "id": 172,
       "type": "a9a792ed-a945-44b1-82cf-bb2b1010837d",
       "pos": [
-        -459.50465141083896,
-        -6481.260805517986
+        -459.5061943189903,
+        -6481.260872236555
       ],
       "size": [
         225,
@@ -1525,8 +1523,8 @@
       "id": 173,
       "type": "TextToLowercase",
       "pos": [
-        -4571.95200107597,
-        -5683.041754577051
+        -4575.525768062818,
+        -5707.666782874749
       ],
       "size": [
         225,
@@ -1562,8 +1560,8 @@
       "id": 174,
       "type": "TextToLowercase",
       "pos": [
-        -2731.367430299625,
-        -4756.360614020415
+        -2731.3691126215563,
+        -4756.36169135099
       ],
       "size": [
         333.8125,
@@ -1602,8 +1600,8 @@
       "id": 175,
       "type": "TextToLowercase",
       "pos": [
-        -2723.2126283903053,
-        -4522.189444523415
+        -2723.213797077914,
+        -4522.190340147854
       ],
       "size": [
         327.515625,
@@ -1642,8 +1640,8 @@
       "id": 176,
       "type": "TextToLowercase",
       "pos": [
-        -2719.6524968747,
-        -4311.471245722179
+        -2719.653907013864,
+        -4311.472791375228
       ],
       "size": [
         332.015625,
@@ -1682,8 +1680,8 @@
       "id": 177,
       "type": "TextToLowercase",
       "pos": [
-        -2728.2984694341712,
-        -4107.381711453006
+        -2728.299173685128,
+        -4107.382858920569
       ],
       "size": [
         325.71875,
@@ -1722,8 +1720,8 @@
       "id": 178,
       "type": "TextToLowercase",
       "pos": [
-        -2729.2298967036677,
-        -3841.430774053568
+        -2729.2310291201147,
+        -3841.4320131898685
       ],
       "size": [
         321.21875,
@@ -1762,8 +1760,8 @@
       "id": 179,
       "type": "TextToLowercase",
       "pos": [
-        -2741.2708510653665,
-        -3640.8679990781266
+        -2741.2711829595455,
+        -3640.869412756585
       ],
       "size": [
         350.390625,
@@ -1802,8 +1800,8 @@
       "id": 180,
       "type": "TextToLowercase",
       "pos": [
-        -4073.780885612191,
-        -5805.1455802276705
+        -4026.2820402441835,
+        -5398.010526951212
       ],
       "size": [
         231.6875,
@@ -1842,8 +1840,8 @@
       "id": 181,
       "type": "TextToLowercase",
       "pos": [
-        -4072.8340557787533,
-        -5640.508429949069
+        -4028.187242604422,
+        -5245.890898482726
       ],
       "size": [
         231.6875,
@@ -1882,8 +1880,8 @@
       "id": 182,
       "type": "TextToLowercase",
       "pos": [
-        -6500.736359323488,
-        -6727.704395684816
+        -6500.736991042817,
+        -6727.70565723537
       ],
       "size": [
         871.21875,
@@ -1919,8 +1917,8 @@
       "id": 183,
       "type": "TextToLowercase",
       "pos": [
-        -6497.374321894136,
-        -6537.121626445827
+        -6497.3749780148255,
+        -6537.122254930489
       ],
       "size": [
         880.453125,
@@ -1956,8 +1954,8 @@
       "id": 184,
       "type": "TextToLowercase",
       "pos": [
-        -6484.5474089223935,
-        -6319.933067241935
+        -6484.548373591186,
+        -6319.934190298236
       ],
       "size": [
         857.4375,
@@ -1993,8 +1991,8 @@
       "id": 185,
       "type": "TextToLowercase",
       "pos": [
-        -6508.325972705934,
-        -6127.318443109591
+        -6508.327124253435,
+        -6127.319545447485
       ],
       "size": [
         873.328125,
@@ -2030,8 +2028,8 @@
       "id": 186,
       "type": "TextToLowercase",
       "pos": [
-        -6496.565687287179,
-        -5945.9506855979325
+        -6496.5664006054985,
+        -5945.952281901923
       ],
       "size": [
         875.71875,
@@ -2067,8 +2065,8 @@
       "id": 187,
       "type": "TextToLowercase",
       "pos": [
-        -6502.461874333996,
-        -5735.525563360596
+        -6502.462883402053,
+        -5735.526175025856
       ],
       "size": [
         875.71875,
@@ -2104,8 +2102,8 @@
       "id": 188,
       "type": "TextToLowercase",
       "pos": [
-        -6495.243206033154,
-        -5526.461000938139
+        -6495.245113048428,
+        -5526.4611839920735
       ],
       "size": [
         875.71875,
@@ -2141,8 +2139,8 @@
       "id": 190,
       "type": "TextToLowercase",
       "pos": [
-        -5391.086022454219,
-        -6729.227538119085
+        -5391.086826474675,
+        -6729.22861499852
       ],
       "size": [
         484.578125,
@@ -2180,8 +2178,8 @@
       "id": 191,
       "type": "TextToLowercase",
       "pos": [
-        -5387.9165170741435,
-        -6387.441221452955
+        -5387.917000727712,
+        -6387.442501539498
       ],
       "size": [
         484.578125,
@@ -2219,8 +2217,8 @@
       "id": 192,
       "type": "TextToLowercase",
       "pos": [
-        -5390.079721610005,
-        -6255.68212745566
+        -5390.080372029289,
+        -6255.6823155194015
       ],
       "size": [
         484.578125,
@@ -2258,8 +2256,8 @@
       "id": 193,
       "type": "TextToLowercase",
       "pos": [
-        -5393.129001421534,
-        -6012.713526853757
+        -5393.129448530605,
+        -6012.713338649186
       ],
       "size": [
         484.578125,
@@ -2297,8 +2295,8 @@
       "id": 194,
       "type": "TextToLowercase",
       "pos": [
-        -5389.92697951758,
-        -5798.177203590887
+        -5389.92738083847,
+        -5798.177964251128
       ],
       "size": [
         484.578125,
@@ -2336,8 +2334,8 @@
       "id": 195,
       "type": "TextToLowercase",
       "pos": [
-        -5369.9994845685505,
-        -5579.999457502717
+        -5369.9999621368315,
+        -5579.999250048575
       ],
       "size": [
         484.578125,
@@ -2375,8 +2373,8 @@
       "id": 196,
       "type": "TextToLowercase",
       "pos": [
-        -3438.7815212181886,
-        -5443.445459780461
+        -3438.7826775071844,
+        -5443.4451293178245
       ],
       "size": [
         225,
@@ -2414,8 +2412,8 @@
       "id": 197,
       "type": "TextToLowercase",
       "pos": [
-        -3440.8343407124657,
-        -5271.823674603137
+        -3440.835414683169,
+        -5271.824732236921
       ],
       "size": [
         225,
@@ -2453,8 +2451,8 @@
       "id": 198,
       "type": "TextToLowercase",
       "pos": [
-        -3494.706091646789,
-        -5099.217408880517
+        -3494.706963603955,
+        -5099.217794853238
       ],
       "size": [
         332.484375,
@@ -2492,8 +2490,8 @@
       "id": 199,
       "type": "TextToLowercase",
       "pos": [
-        -3497.4687126293957,
-        -4898.397068808044
+        -3497.4696557687394,
+        -4898.397574956076
       ],
       "size": [
         332.484375,
@@ -2531,8 +2529,8 @@
       "id": 200,
       "type": "TextToLowercase",
       "pos": [
-        -3498.7531153225636,
-        -4719.084697884654
+        -3498.754592113116,
+        -4719.084629074007
       ],
       "size": [
         332.484375,
@@ -2570,8 +2568,8 @@
       "id": 201,
       "type": "TextToLowercase",
       "pos": [
-        -3529.189865219054,
-        -4541.055873956435
+        -3529.190988355992,
+        -4541.056303438813
       ],
       "size": [
         397.34375,
@@ -2609,8 +2607,8 @@
       "id": 202,
       "type": "TextToLowercase",
       "pos": [
-        -3529.6587877212896,
-        -4379.61176075282
+        -3529.660077048502,
+        -4379.612349327368
       ],
       "size": [
         397.34375,
@@ -2648,8 +2646,8 @@
       "id": 203,
       "type": "TextToLowercase",
       "pos": [
-        -3528.5699120203863,
-        -4205.728365770005
+        -3528.570488960171,
+        -4205.729010231855
       ],
       "size": [
         397.34375,
@@ -2687,8 +2685,8 @@
       "id": 204,
       "type": "TextToLowercase",
       "pos": [
-        -3522.5295398611115,
-        -3988.9839138264424
+        -3522.5311300928524,
+        -3988.9837981994715
       ],
       "size": [
         397.34375,
@@ -2726,8 +2724,8 @@
       "id": 205,
       "type": "TextToLowercase",
       "pos": [
-        -2723.686685080522,
-        -4983.233963151871
+        -2723.687943330451,
+        -4983.234035142567
       ],
       "size": [
         327.5625,
@@ -2766,8 +2764,8 @@
       "id": 210,
       "type": "TextToLowercase",
       "pos": [
-        -5387.313249986413,
-        -6534.4313119439485
+        -5387.315151084491,
+        -6534.432265191093
       ],
       "size": [
         484.578125,
@@ -2805,8 +2803,8 @@
       "id": 214,
       "type": "TextToLowercase",
       "pos": [
-        -1814.5862877167438,
-        -6727.8900821501165
+        -1814.5871031005217,
+        -6727.891522566365
       ],
       "size": [
         295.140625,
@@ -2845,8 +2843,8 @@
       "id": 215,
       "type": "TextToLowercase",
       "pos": [
-        -1806.0892066087117,
-        -6554.288639657241
+        -1806.08977006005,
+        -6554.289510247358
       ],
       "size": [
         295.140625,
@@ -2885,8 +2883,8 @@
       "id": 216,
       "type": "TextToLowercase",
       "pos": [
-        -1814.4562216212335,
-        -6376.824576406897
+        -1814.4581353198319,
+        -6376.826050847685
       ],
       "size": [
         295.140625,
@@ -2925,8 +2923,8 @@
       "id": 217,
       "type": "TextToLowercase",
       "pos": [
-        -1810.9632623983744,
-        -6182.084826299548
+        -1810.964625731137,
+        -6182.085334200558
       ],
       "size": [
         295.140625,
@@ -2965,8 +2963,8 @@
       "id": 218,
       "type": "TextToLowercase",
       "pos": [
-        -1808.3593733941707,
-        -5981.064680744827
+        -1808.3606145122012,
+        -5981.065024584825
       ],
       "size": [
         295.140625,
@@ -3005,8 +3003,8 @@
       "id": 219,
       "type": "TextToLowercase",
       "pos": [
-        -1801.4615918421214,
-        -5803.638268206341
+        -1801.4633670252915,
+        -5803.638864690352
       ],
       "size": [
         295.140625,
@@ -3045,8 +3043,8 @@
       "id": 220,
       "type": "TextToLowercase",
       "pos": [
-        -1793.0064399359317,
-        -5627.232275529017
+        -1793.007758855043,
+        -5627.233699726344
       ],
       "size": [
         295.140625,
@@ -3085,8 +3083,8 @@
       "id": 221,
       "type": "TextToLowercase",
       "pos": [
-        -1794.9309047306915,
-        -5452.084586755958
+        -1794.9321604453407,
+        -5452.084706234058
       ],
       "size": [
         295.140625,
@@ -3125,8 +3123,8 @@
       "id": 222,
       "type": "TextToLowercase",
       "pos": [
-        -1224.86661067139,
-        -6771.199524861177
+        -1224.867385409717,
+        -6771.200673468128
       ],
       "size": [
         295.140625,
@@ -3165,8 +3163,8 @@
       "id": 223,
       "type": "TextToLowercase",
       "pos": [
-        -1225.499827189008,
-        -6578.432586485406
+        -1225.5014769981099,
+        -6578.432405231555
       ],
       "size": [
         295.140625,
@@ -3205,8 +3203,8 @@
       "id": 224,
       "type": "TextToLowercase",
       "pos": [
-        -1226.6426118637082,
-        -6415.967625571633
+        -1226.6432211742203,
+        -6415.967140092143
       ],
       "size": [
         295.140625,
@@ -3245,8 +3243,8 @@
       "id": 225,
       "type": "TextToLowercase",
       "pos": [
-        -1224.68862548806,
-        -6241.419781094317
+        -1224.6897386137662,
+        -6241.4199962430785
       ],
       "size": [
         295.140625,
@@ -3280,6 +3278,202 @@
       "color": "#432",
       "bgcolor": "#653",
       "shape": 4
+    },
+    {
+      "id": 234,
+      "type": "TextToLowercase",
+      "pos": [
+        -4046.6480933922307,
+        -5929.971869456298
+      ],
+      "size": [
+        231.6875,
+        84
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 77,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "stone",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Transform the entire subject into an ancient monumental stone sculpture of epic scale and grandeur, maintaining exact original form and shape, weathered grey limestone granite and sandstone material throughout entire subject, massive imposing scale evoking ancient civilizations and timeless permanence, deeply carved chisel marks and tool traces visible across stone surface showing master stone carver craftsmanship, intricate fine detail carving on facial features and focal areas, visible stone grain and mineral deposits flowing naturally through carved form, alternating smooth worn polished areas and rough textured hammer dressed surfaces, deep carved shadow grooves between carved detail elements, rich cool grey warm beige and aged ochre stone tones, natural stone cracks fissures and mineral veining visible throughout, centuries of weathering erosion and moss lichen growth accumulating in deep carved crevices, deep carved relief shadows creating dramatic depth in intricate detail areas, fine stone chip and fracture detail at carved edges, aged dark patina naturally darkening deep carved grooves and recessed areas, crumbling eroded surface edges suggesting thousands of years of exposure, epic monumental museum or archaeological site display lighting with dramatic raking side light revealing stone texture and carving depth beautifully, ancient temple or excavation site atmospheric background, shallow depth of field softly dissolving background, master ancient stone carver artisan craftsmanship quality, Easter Island Moai and Angkor Wat temple guardian aesthetic, hyperrealistic 8K stone material and carving detail quality, professional fine art archaeological sculpture photography."
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930",
+      "shape": 4
+    },
+    {
+      "id": 235,
+      "type": "TextToLowercase",
+      "pos": [
+        -4051.816340342484,
+        -5766.671913114449
+      ],
+      "size": [
+        231.6875,
+        84
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 78,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "stone2",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Transform the entire subject into a colossal ancient rocky stone sculpture of epic scale in a dense forest setting, maintaining exact original form and shape without any alteration extension or modification whatsoever, rough hewn natural rocky stone material throughout entire subject, massive imposing scale seamlessly integrated into ancient overgrown forest environment, ancient stone bridge elegantly connecting from sculpture to surrounding forest landscape naturally grown into the stone form over centuries, late evening golden hour atmospheric lighting filtering through dense forest canopy casting long warm amber and deep orange light rays across rough rocky stone surface, soft dappled golden light patches illuminating textured rocky stone surfaces while deep cool shadows fill recessed areas and carved grooves, Uncharted Lost Legacy video game art direction aesthetic with lush overgrown ancient Indian temple forest atmosphere, dense tropical foliage and ancient towering trees surrounding the colossal stone form on all sides, soft hanging vines and tropical forest canopy framing the epic stone sculpture from above, warm late evening sky with deep amber orange and soft purple twilight tones visible through forest canopy gaps, ancient stone bridge with rough rocky construction matching sculpture stone material arching gracefully through forest, soft evening ground mist gently settling at forest floor level around massive stone base, ancient undisturbed sacred forest atmosphere radiating timeless forgotten civilization energy, rich warm amber golden and deep cool shadow contrast creating dramatic cinematic depth, shallow depth of field dissolving deep forest background into soft atmospheric evening haze, hyperrealistic 8K rough rocky stone material and cinematic late evening forest lighting quality, professional cinematic fine art Naughty Dog Uncharted Lost Legacy inspired archaeological forest photography."
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930",
+      "shape": 4
+    },
+    {
+      "id": 236,
+      "type": "TextToLowercase",
+      "pos": [
+        -4041.4060418224667,
+        -5607.701197582913
+      ],
+      "size": [
+        231.6875,
+        84
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 79,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "stone3",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Transform the entire subject into a colossal ancient stone sculpture of absolutely epic 300 feet towering scale organically and seamlessly embedded into a vast massive landscape as if grown naturally from the earth itself, maintaining exact original form and shape without any alteration extension or modification whatsoever, smooth ancient weathered stone material throughout entire subject blending harmoniously with surrounding natural environment, massive overwhelming form rising monumentally from forest floor dwarfing all surrounding trees and landscape elements as an inseparable part of the living world, epic cascading waterfall of enormous scale thundering down rocky cliff face completely independent and separate from sculpture positioned powerfully within the vast landscape composition, ancient weathered wooden rope bridge spanning gracefully across the wide gorge or river valley completely independent from sculpture serving as human scale reference emphasizing the overwhelming colossal size of stone form, tiny human figures optionally visible on bridge or landscape floor emphasizing the incomprehensible 300 feet scale of sculpture, very muted and desaturated neutral color palette throughout entire scene with soft earthy tones of warm grey beige taupe and muted olive green, vast epic landscape stretching dramatically into deep distance with layered mountain ridges and ancient forest canopy filling the entire horizon, late evening cinematic lighting with single soft warm shaft of golden light falling gently across sculpture surface from low sun angle through atmosphere, surrounding vast landscape remaining in cool deep muted shadow emphasizing the singular light beam on sculpture, rich cinematic contrast between softly lit sculpture surface and deeply shadowed epic landscape, soft atmospheric forest mist and valley fog drifting gently through massive landscape scene, ancient towering trees appearing small against the 300 feet stone colossus, heavy Hollywood cinematic film grain and organic analog noise texture overlaid across entire image, Kodak film stock inspired color grading with lifted shadows and muted highlights, anamorphic lens subtle horizontal flare from evening light source, shallow depth of field with soft cinematic bokeh dissolving far background into muted atmospheric haze, muted cinematic color grade inspired by Blade Runner 2049 and Apocalypto visual aesthetic, timeless organic sacred ancient world atmosphere, hyperrealistic 8K stone material with heavy cinematic film grain analog texture quality, professional Hollywood cinematic epic landscape fine art archaeology photography."
+      ],
+      "color": "#332922",
+      "bgcolor": "#593930",
+      "shape": 4
+    },
+    {
+      "id": 237,
+      "type": "TextToLowercase",
+      "pos": [
+        -4595.286315916459,
+        -5351.027864137648
+      ],
+      "size": [
+        283.453125,
+        95
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 80,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": [
+            422
+          ]
+        }
+      ],
+      "title": "stone- green crack - after",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Transform the entire subject into a colossal ancient stone sculpture of epic scale, maintaining exact original form and shape without any alteration extension or modification whatsoever, smooth ancient weathered stone material throughout entire subject, singular catastrophic jagged fracture crack boldly splitting wide through stone surface following natural organic stone fracture path with raw broken stone edges and deep interior void visible, crack interior deeply illuminated with intense vivid neon green light glowing powerfully from within casting rich green inner glow across all internal crack walls and surfaces, green illuminated crack interior creating strong green ambient light spilling outward following exact crack geometry naturally, crack glowing green from deep within as if containing living magical energy source radiating from core, soft subtle green tinted light rays emerging naturally and organically from crack following exact crack geometry and direction casting gentle green ambient light outward only where crack opening allows light to escape, light rays following crack path organically like light through a narrow gap with natural falloff and soft edges precisely aligned to crack direction and shape, thunder lightning streaks emerging directly and organically from crack opening following natural crack branch geometry and fracture direction outward, lightning streaks branching along exact crack line extensions as natural continuations of fracture path, thunder arcs crawling outward from crack following stone surface grain and fracture geometry with precise organic directionality, no random scattered lightning only crack originated directional thunder streaks precisely following fracture path extensions, thick luminous magical green slime slowly oozing powerfully from crack edges with extraordinary vivid neon green internal self illumination matching crack interior green color perfectly, green slime bioluminescent from within casting strong green ambient light reflecting and bouncing off surrounding stone surface naturally, green light from crack interior and green slime creating unified coherent green light ecosystem across stone surface with natural color consistency, strong green light reflections and color bleeding washing across stone surface areas nearest crack with natural light falloff diminishing organically with distance, green ambient light casting soft green color grading across entire sculpture surface nearest illumination source with physically accurate light behavior, glowing green slime running downward following natural gravity path leaving brilliant glowing green light trails organically on stone surface, extraordinarily thick heavy magical green glowing smoke erupting powerfully and organically upward from crack and slime contact points following natural convection, green smoke internally illuminated matching crack interior green color creating unified green luminescence throughout entire scene atmosphere, dense magical luminous green and gold particles and tiny glowing dust motes spreading organically outward from crack following air currents, thousands of tiny magical shimmer dust particles suspended in atmosphere drifting organically like enchanted alchemical residue, deep electric blue and green color interaction at crack edges creating rich organic teal transition zones, strong green specular reflections and light bouncing accurately on all polished and semi smooth stone surfaces near crack source, stone surface color corrected to receive and reflect green crack light naturally with accurate physically based green tinted shadow fill, deep cinematic shadows organically separating colored light sources following natural light physics with green as dominant light source, foreground suspended stone debris glowing dust particles and slime droplets frozen naturally mid air with organic depth of field separation, background consumed entirely by dark atmospheric void with organically billowing green glowing smoke haze, heavy professional Hollywood VFX compositing quality with organic practical light interaction realism, anamorphic lens subtle organic breathing with gentle chromatic aberration on green light source, heavy organic analog film grain across entire frame, deep rich cinematic color grade with pure black shadows dominant vivid green magical light and dramatic natural contrast, inspired by Annihilation and God of War organic cinematic VFX aesthetic, hyperrealistic 8K stone material wide crack interior green illumination volumetric organic magical smoke glowing slime directional crack lightning and enchanted dust particle quality, professional Hollywood blockbuster organic cinematic magical VFX fine art sculpture photography."
+      ]
+    },
+    {
+      "id": 238,
+      "type": "TextToLowercase",
+      "pos": [
+        -4605.580144002524,
+        -5538.515971339
+      ],
+      "size": [
+        289.0625,
+        86.0625
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 81,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "stone- green crack - before",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Transform the entire subject into a colossal ancient stone sculpture of epic scale standing completely pristine and undamaged, maintaining exact original form and shape without any alteration extension or modification whatsoever, smooth ancient weathered stone material throughout entire subject in perfect untouched condition, massive imposing form radiating silent ancient power and stillness, an ominous supernatural energy building invisibly around the sculpture with intense dramatic tension, very subtle barely visible hairline stress fracture lines beginning to form on stone surface suggesting imminent catastrophic impact from within, stone surface showing extremely faint internal green luminescence barely glowing beneath stone skin as if magical energy is building pressure from deep inside, very subtle soft green light barely bleeding through stone material suggesting enormous contained energy about to rupture, faint wisps of thin green vapor barely visible rising from stone surface suggesting heat and pressure building internally, stone surface appearing to vibrate with contained supernatural energy, extremely subtle micro crack network just beginning to spider across surface suggesting structural failure is seconds away, dramatic ominous atmospheric lighting with deep shadows and single cool overhead light source casting dramatic shadows across pristine stone surface, heavy cinematic tension and stillness like the moment before catastrophic explosion, deep moody atmospheric background with subtle green tinted haze barely visible, sense of enormous contained supernatural power on the absolute threshold of violent release, dead silent calm before catastrophic magical storm atmosphere, subtle anamorphic lens breathing suggesting contained energy and tension, heavy organic analog film grain across entire frame, deep rich cinematic color grade with lifted blacks and subtle green color cast in shadows suggesting incoming energy, inspired by Annihilation and God of War pre impact cinematic tension aesthetic, hyperrealistic 8K pristine stone material with subtle pre impact stress detail quality, professional Hollywood blockbuster cinematic tension fine art sculpture photography."
+      ]
     }
   ],
   "links": [
@@ -3324,8 +3518,8 @@
       "IMAGE"
     ],
     [
-      387,
-      146,
+      422,
+      237,
       0,
       75,
       0,
@@ -3365,8 +3559,8 @@
       "bounding": [
         -4083.780336184365,
         -6811.757980847636,
-        375.2716170281292,
-        1376.8969368095877
+        369.0731795802485,
+        1701.9198150548082
       ],
       "color": "#b06634",
       "font_size": 24,
@@ -3391,8 +3585,8 @@
       "bounding": [
         -4631.797651748612,
         -6797.5568729386905,
-        357.6050386762963,
-        1285.1549025540198
+        372.67751856264385,
+        1659.2424282865768
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -3458,8 +3652,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 233,
-          "lastLinkId": 387,
+          "lastNodeId": 238,
+          "lastLinkId": 422,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -4804,8 +4998,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 233,
-          "lastLinkId": 387,
+          "lastNodeId": 238,
+          "lastLinkId": 422,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -5170,8 +5364,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 233,
-          "lastLinkId": 387,
+          "lastNodeId": 238,
+          "lastLinkId": 422,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -5866,7 +6060,7 @@
               }
             },
             "widgets_values": [
-              ""
+              "this monkey is walking in streets at night light"
             ],
             "color": "#232",
             "bgcolor": "#353"
@@ -6701,8 +6895,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 233,
-          "lastLinkId": 387,
+          "lastNodeId": 238,
+          "lastLinkId": 422,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -7067,8 +7261,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 233,
-          "lastLinkId": 387,
+          "lastNodeId": 238,
+          "lastLinkId": 422,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -7433,8 +7627,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 233,
-          "lastLinkId": 387,
+          "lastNodeId": 238,
+          "lastLinkId": 422,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -7506,10 +7700,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.3217592163361229,
+      "scale": 0.22076179845553512,
       "offset": [
-        6133.61290276038,
-        9194.753375013288
+        7724.083655346821,
+        8844.756338209512
       ]
     },
     "frontendVersion": "1.39.19",
