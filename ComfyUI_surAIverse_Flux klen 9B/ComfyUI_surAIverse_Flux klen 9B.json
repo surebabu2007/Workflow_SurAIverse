@@ -1,15 +1,15 @@
 {
   "id": "92112d97-bb64-4b44-86f2-ea5691ef8f6e",
   "revision": 0,
-  "last_node_id": 238,
-  "last_link_id": 422,
+  "last_node_id": 241,
+  "last_link_id": 449,
   "nodes": [
     {
       "id": 75,
       "type": "7b34ab90-36f9-45ba-a665-71d418f0df18",
       "pos": [
-        -4166.917276768285,
-        -6126.615787216404
+        -4025.2654871694376,
+        -5133.605109527767
       ],
       "size": [
         546.90625,
@@ -18,7 +18,7 @@
       "flags": {
         "collapsed": false
       },
-      "order": 83,
+      "order": 86,
       "mode": 0,
       "inputs": [
         {
@@ -28,7 +28,7 @@
           "widget": {
             "name": "text"
           },
-          "link": 422
+          "link": 449
         },
         {
           "name": "image",
@@ -164,7 +164,7 @@
         426
       ],
       "flags": {},
-      "order": 82,
+      "order": 85,
       "mode": 4,
       "inputs": [
         {
@@ -283,15 +283,15 @@
       "id": 101,
       "type": "PreviewImage",
       "pos": [
-        -4385.5299359086985,
-        -7426.854775664877
+        -4402.829220758067,
+        -7408.041099701536
       ],
       "size": [
         521.625,
         521.34375
       ],
       "flags": {},
-      "order": 85,
+      "order": 88,
       "mode": 0,
       "inputs": [
         {
@@ -377,7 +377,7 @@
         528.046875
       ],
       "flags": {},
-      "order": 84,
+      "order": 87,
       "mode": 4,
       "inputs": [
         {
@@ -1488,7 +1488,7 @@
         }
       },
       "widgets_values": [
-        "Transform this exact existing scene by adding  post explosion burning destruction effects  directly onto the current environment as it is,  keep all existing scene elements structures  and layout completely intact and recognizable,  only add burning fire cracking and destruction  effects on top of existing scene logically,  existing walls now showing deep structural cracks  and fractures spreading across their surfaces,  fire burning and roaring from within cracks  of existing walls and structures in scene,  existing surfaces now charred blackened  and scorched with burn damage spreading naturally,  flames erupting from existing structural elements  burning and consuming them progressively,  existing floor now covered in ash debris  and scattered burnt fragments naturally,  fire logically spreading across existing  scene surfaces following natural burn paths,  existing ceiling and upper elements now  burning with fire spreading along surfaces,  deep orange red fire glow emanating  from cracks in existing scene structures,  existing scene architecture now crumbling  and damaged while remaining recognizable,  thick black smoke rising from burning  existing scene elements naturally,  charred burn marks spreading from fire  sources across existing surfaces organically,  existing scene lighting now replaced  by dramatic flickering fire illumination,  heat shimmer distortion above existing  burning surfaces throughout scene,  glowing embers settling on existing  scene floor and surfaces naturally,  fire respecting existing scene geometry  burning logically where materials would burn,  smoke filling existing scene atmosphere  naturally from multiple burn sources,  everything happening within existing scene  boundaries without replacing or removing elements,  entire transformation feels like natural  disaster happened to this specific scene,  hyperrealistic 8K cinematic fire destruction  applied to existing scene VFX quality"
+        "Transform this exact existing scene in the image by applying hyperrealistic post-explosion destruction and fire effects directly onto the current environment. Every existing element, structure, wall, floor, ceiling, furniture, and architectural detail visible in this image must remain fully recognizable and in its original position — nothing removed, nothing replaced, only catastrophically devastated in place. STRUCTURAL COLLAPSE AND FAILURE: The existing walls and columns in this image now show catastrophic structural compromise — some walls caught mid-collapse, leaning at unnatural angles with visible shear fractures running floor to ceiling. Sections of the existing ceiling in this scene have partially given way, dangling debris held by bent rebar and twisted metal. The existing floor is buckled and heaved upward from blast pressure. Every doorframe and window frame visible in this image is warped out of shape, blown inward, frames bent and twisted. Some existing walls remain standing but are hollow gutted shells — surface faces partially intact while interiors exposed and destroyed. Any freestanding elements in this scene are now crushed under fallen structural debris. Half-collapsed arches and partially caved sections visible throughout, destruction frozen mid-process. FIRE AND BURNING: Roaring fire erupting from within the cracks of every existing wall in this image, consuming structures from inside out. Flames bursting through fractured surfaces with natural intensity variation — fierce where oxygen feeds, smoldering where it chokes. All existing surfaces in this image now charred, blackened, and scorched — wood elements burning fastest, concrete spalling and crumbling, metal edges glowing red-hot. Fire spreading along existing ceiling surfaces following beams and combustible pathways visible in the original image. Deep structural cracks glowing amber-orange from intense heat radiating within. Glowing embers raining down and settling across all floor surfaces. ATMOSPHERE AND LIGHTING: Every existing light source in this image is extinguished and replaced entirely by dramatic flickering fire illumination. Harsh orange-red glow casting dynamic shadows from multiple fire sources throughout the scene. Thick black smoke billowing from every burn point, filling the upper atmosphere of this exact space, obscuring background details naturally. Heat shimmer distortion rising visibly above every burning surface. Dense ash, soot, and pulverized concrete dust hanging in the air as a particulate haze throughout. Smoke density thickening toward the ceiling, thinning near floor level. GROUND AND DEBRIS: The existing floor surface in this image now buried under layered destruction — ash drifts, scattered brick and concrete fragments, shattered material catching firelight, dust-coated surfaces, twisted metal shards, and char debris fallen from burning elements above. Blast scorch patterns radiating outward across the floor. Pooled glowing embers clustered in debris piles throughout. CRITICAL RULES: Fire must respect the exact geometry and materials visible in this image — burning logically where combustible materials exist. Structural collapse must follow realistic physics based on the architecture shown in this image. The scene must remain architecturally identical and fully recognizable from the original image while being comprehensively destroyed. This is not a generic destruction overlay — this is precisely what happened to this specific space shown in the image. Hyperrealistic 8K cinematic quality, VFX-grade destruction and fire rendering, photochemical grain, high dynamic range fire and ember detail, everything occurring within the exact spatial boundaries of the original image."
       ]
     },
     {
@@ -3403,8 +3403,8 @@
       "id": 237,
       "type": "TextToLowercase",
       "pos": [
-        -4595.286315916459,
-        -5351.027864137648
+        -4591.499258588759,
+        -5372.4916694148815
       ],
       "size": [
         283.453125,
@@ -3420,9 +3420,7 @@
         {
           "name": "texts",
           "type": "STRING",
-          "links": [
-            422
-          ]
+          "links": []
         }
       ],
       "title": "stone- green crack - after",
@@ -3474,6 +3472,119 @@
       "widgets_values": [
         "Transform the entire subject into a colossal ancient stone sculpture of epic scale standing completely pristine and undamaged, maintaining exact original form and shape without any alteration extension or modification whatsoever, smooth ancient weathered stone material throughout entire subject in perfect untouched condition, massive imposing form radiating silent ancient power and stillness, an ominous supernatural energy building invisibly around the sculpture with intense dramatic tension, very subtle barely visible hairline stress fracture lines beginning to form on stone surface suggesting imminent catastrophic impact from within, stone surface showing extremely faint internal green luminescence barely glowing beneath stone skin as if magical energy is building pressure from deep inside, very subtle soft green light barely bleeding through stone material suggesting enormous contained energy about to rupture, faint wisps of thin green vapor barely visible rising from stone surface suggesting heat and pressure building internally, stone surface appearing to vibrate with contained supernatural energy, extremely subtle micro crack network just beginning to spider across surface suggesting structural failure is seconds away, dramatic ominous atmospheric lighting with deep shadows and single cool overhead light source casting dramatic shadows across pristine stone surface, heavy cinematic tension and stillness like the moment before catastrophic explosion, deep moody atmospheric background with subtle green tinted haze barely visible, sense of enormous contained supernatural power on the absolute threshold of violent release, dead silent calm before catastrophic magical storm atmosphere, subtle anamorphic lens breathing suggesting contained energy and tension, heavy organic analog film grain across entire frame, deep rich cinematic color grade with lifted blacks and subtle green color cast in shadows suggesting incoming energy, inspired by Annihilation and God of War pre impact cinematic tension aesthetic, hyperrealistic 8K pristine stone material with subtle pre impact stress detail quality, professional Hollywood blockbuster cinematic tension fine art sculpture photography."
       ]
+    },
+    {
+      "id": 239,
+      "type": "TextToLowercase",
+      "pos": [
+        -4587.007998430352,
+        -5169.2995554617655
+      ],
+      "size": [
+        283.453125,
+        84
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 82,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "fire threads",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Tiny glowing fire threads spreading organically across the surface following the natural depth  and contours of the subject, concentrating and blooming densely in the darker shadow regions  and recessed areas, threads branching like living veins of light tracing every crevice and  depth fold, illuminating shadowed zones with warm golden-amber radiance as if light is  seeping through cracks from within, brighter thread density where shadows fall deepest,  ultra-fine micro-particles drifting upward from the darkest regions like rising embers,  deep electric blue atmospheric glow emanating softly from behind the subject creating  rich warm-cool contrast, threads pulsing with bioluminescent energy across surface topology,  organic depth-driven spread like burning frost or mycelium following shadow maps,  volumetric bloom intensifying in darker recessed areas,  color palette: warm gold and crimson threads concentrated in shadows over cool deep blue rim backlight,  magical depth-reactive surface illumination VFX, ultra vibrant, 8K cinematic detail,  HDR glow, fantasy particle atmosphere"
+      ]
+    },
+    {
+      "id": 240,
+      "type": "TextToLowercase",
+      "pos": [
+        -4574.5378031967275,
+        -4881.941987418339
+      ],
+      "size": [
+        283.453125,
+        84
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 83,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": [
+            449
+          ]
+        }
+      ],
+      "title": "xray -after",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "Tiny transparent electric blue X-ray wire filaments spreading organically across the surface  following the natural depth and contours of the subject, concentrating and blooming densely  in the darker shadow regions and recessed areas, ultra-fine hairline wire strands branching  like neural networks tracing every crevice and depth fold, small delicate swirling micro-curls  and tiny spirals forming naturally along each wire as it spreads, translucent glass-like  filaments glowing with cool electric blue and cyan inner luminescence illuminating shadowed  zones from within, brighter wire density where shadows fall deepest, ultra-fine micro-particles  drifting from the darkest regions like floating blue sparks, deep electric blue atmospheric  glow emanating softly from behind the subject, wires pulsing with bioluminescent X-ray energy  across surface topology, transparent wire coils catching light like fiber optic threads,  organic depth-driven spread with tiny swirling curls at every branch tip,  color palette: transparent icy blue and electric cyan wires over deep cobalt blue rim backlight,  magical depth-reactive X-ray wire surface VFX, ultra vibrant, 8K cinematic detail,  HDR glow, bioluminescent sci-fi fantasy atmosphere"
+      ]
+    },
+    {
+      "id": 241,
+      "type": "TextToLowercase",
+      "pos": [
+        -4577.0640548118145,
+        -5020.233292350882
+      ],
+      "size": [
+        283.453125,
+        84
+      ],
+      "flags": {
+        "collapsed": false
+      },
+      "order": 84,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "texts",
+          "type": "STRING",
+          "links": []
+        }
+      ],
+      "title": "xray -before",
+      "properties": {
+        "ue_properties": {
+          "widget_ue_connectable": {},
+          "input_ue_unconnectable": {},
+          "version": "7.7"
+        },
+        "Node name for S&R": "TextToLowercase"
+      },
+      "widgets_values": [
+        "First emergence of tiny transparent electric blue X-ray wire filaments barely appearing  on the surface, sparse singular strands just beginning to crawl organically from the  deepest shadow regions and darkest recessed areas, only a few delicate hairline wires  visible slowly branching outward like the very first roots of a neural network waking up,  small faint micro-swirls and tiny nascent spirals just forming at the origin points,  translucent glass-like filaments dimly pulsing with faint cool electric blue inner glow,  most of the subject still untouched and dark, light barely seeping through just the deepest  shadow crevices, scattered isolated blue sparks floating near origin points like the first  breath of energy, very faint deep blue atmospheric backlight just beginning to materialize  behind the subject, wire density extremely sparse concentrated only in the single darkest  focal point, fragile thread tips barely curling into their first tiny spirals,  color palette: faint icy blue and dim electric cyan barely visible over near darkness,  magical birth moment of depth-reactive X-ray wire surface VFX, cinematic tension,  8K detail, ultra subtle HDR glow, sci-fi fantasy awakening atmosphere"
+      ]
     }
   ],
   "links": [
@@ -3518,8 +3629,8 @@
       "IMAGE"
     ],
     [
-      422,
-      237,
+      449,
+      240,
       0,
       75,
       0,
@@ -3585,8 +3696,8 @@
       "bounding": [
         -4631.797651748612,
         -6797.5568729386905,
-        372.67751856264385,
-        1659.2424282865768
+        405.7126046117901,
+        2013.4161344867962
       ],
       "color": "#3f789e",
       "font_size": 24,
@@ -3652,8 +3763,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 238,
-          "lastLinkId": 422,
+          "lastNodeId": 241,
+          "lastLinkId": 449,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -4998,8 +5109,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 238,
-          "lastLinkId": 422,
+          "lastNodeId": 241,
+          "lastLinkId": 449,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -5364,8 +5475,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 238,
-          "lastLinkId": 422,
+          "lastNodeId": 241,
+          "lastLinkId": 449,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -6895,8 +7006,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 238,
-          "lastLinkId": 422,
+          "lastNodeId": 241,
+          "lastLinkId": 449,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -7261,8 +7372,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 238,
-          "lastLinkId": 422,
+          "lastNodeId": 241,
+          "lastLinkId": 449,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -7627,8 +7738,8 @@
         "version": 1,
         "state": {
           "lastGroupId": 15,
-          "lastNodeId": 238,
-          "lastLinkId": 422,
+          "lastNodeId": 241,
+          "lastLinkId": 449,
           "lastRerouteId": 2
         },
         "revision": 0,
@@ -7700,10 +7811,10 @@
   "config": {},
   "extra": {
     "ds": {
-      "scale": 0.22076179845553512,
+      "scale": 0.2693364344518198,
       "offset": [
-        7724.083655346821,
-        8844.756338209512
+        6587.427459932525,
+        8940.007103235994
       ]
     },
     "frontendVersion": "1.39.19",
